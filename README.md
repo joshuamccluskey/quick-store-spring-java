@@ -1,1 +1,1 @@
-# quick-store-spring-java-
+# quick-store-spring-java
